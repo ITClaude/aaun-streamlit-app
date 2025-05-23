@@ -86,4 +86,4 @@ st.markdown("""
 
 # Footer
 st.markdown("---")
-st.markdown("App powered by Streamlit | © AAUN Africa Forum 2025")
+st.markdown("App powered by Streamlit |© Jean Claude Dushime-IoT-TAILAB |© AAUN Africa Forum 2025")
